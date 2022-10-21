@@ -6,8 +6,8 @@ I teseted 8 features on this website:
   3) Currencies 
   4) Search
   5) Hover categories
-  6) Home slieder
-  7) Fllow us 
+  6) Home slider
+  7) Follow us 
   8) Wishlist
 
 Website tested: https://demo.nopcommerce.com
