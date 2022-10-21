@@ -1,6 +1,6 @@
 # E-Commerce_Automation_testing
 This project is about automated frontend testing. 
-I teseted 8 features in this website:
+I teseted 8 features on this website:
   1) Registeration 
   2) Login
   3) Currencies 
