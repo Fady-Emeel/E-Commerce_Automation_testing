@@ -11,4 +11,4 @@ I teseted 8 features on this website:
   8) Wishlist
 
 Website tested: https://demo.nopcommerce.com
-Tools used: Java, Selenuim, Junit & Cucmber
+Tools used: Java, Selenium, Junit & Cucmber
